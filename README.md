@@ -12,7 +12,7 @@ This is my learning journal
 ### How to keep a growth mindset 
 -  Someone success should act as motivation
 -  Saying I can do this instead of saying I wish I can do this
-- Growth mindset is needed in coding
+- Remembering a growth mindset is needed in coding
 
 
 
