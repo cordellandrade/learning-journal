@@ -4,7 +4,9 @@
 
 This is my learning journal
 
-* Growth mindset is the ability to believe in one's self to achieve great things through hardwork and dedication
+ Growth mindset is the ability to believe in one's self to achieve great things through;
+* Hardwork 
+* Dedication
 
 
 ### How to keep a growth mindset 
