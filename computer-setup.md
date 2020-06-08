@@ -10,8 +10,11 @@
 -Code Completion (Allows you to start typing, and the code completion
 feature will display possible suggestions based on what you originally
 typed.)
+
 -Syntax highlighting (Feature thats takes the text you type and makes it more noticeable.)
+
 -Themes (Helps with eye strain.)
+
 -Extentions ex. Emmet (Extention for html and css to write code more effienciently.)
 
 
