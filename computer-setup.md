@@ -19,19 +19,19 @@ typed.)
 
 
 ## Command Line Prompts
--pwd
-Print Working Directory - ie. Where are we currently.
+-pwd;
+> Print Working Directory - ie. Where are we currently.
 
--ls
+-ls;
 List the contents of a directory.
 
--cd
+-cd;
 Change Directories - ie. move to another directory.
 
--~ (Tilde) - Shortcut for your home directory. 
+-"~" (Tilde) - Shortcut for your home directory. 
 
--. (Dot) - Reference to your current directory. (Relative path)
+-"." (Dot) - Reference to your current directory. (Relative path)
 
--.. (DotDot) - Reference to the parent directory. (Absolute path)
+-".." (DotDot) - Reference to the parent directory. (Absolute path)
 
 
