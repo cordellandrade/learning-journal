@@ -24,8 +24,8 @@ List the contents of a directory.
 -cd
 Change Directories - ie. move to another directory.
 
-~ (Tilde) - Shortcut for your home directory. 
-. (Dot) - Reference to your current directory. (Relative path)
-.. (DotDot) - Reference to the parent directory. (Absolute path)
+*~ (Tilde) - Shortcut for your home directory. 
+*. (Dot) - Reference to your current directory. (Relative path)
+*.. (DotDot) - Reference to the parent directory. (Absolute path)
 
 
