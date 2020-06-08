@@ -2,10 +2,11 @@
 
 
 ## Code Editors / Tools
-- Notepad++
-- TextWrangler
-- Visul Studio Code
-/
+1. Notepad++
+1. TextWrangler
+1. Visul Studio Code
+
+## Tools
 -Code Completion (Allows you to start typing, and the code completion
 feature will display possible suggestions based on what you originally
 typed.)
