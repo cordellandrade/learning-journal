@@ -20,7 +20,7 @@ typed.)
 
 ## Command Line Prompts
 -pwd;
-> Print Working Directory - ie. Where are we currently.
+`Print Working Directory - ie. Where are we currently.`
 
 -ls;
 List the contents of a directory.
