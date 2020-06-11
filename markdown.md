@@ -1,5 +1,6 @@
 #Markdown
 
-* # - `Creates headings`
+* `#` - `Creates headings`
 * ![]() - `Inserts Pictures`
 * []() - `Inserts links to page`
+* * * - `Makes text bold`
