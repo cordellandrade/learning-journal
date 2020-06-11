@@ -6,7 +6,7 @@ This is my learning journal
 
  Growth mindset is the ability to believe in one's self to achieve great things through;
 * [x] ~~Luck~~ Hardwork 
-* [] Dedication
+* [ ] Dedication
 
 
 
