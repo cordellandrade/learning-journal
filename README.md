@@ -8,7 +8,7 @@ This is my learning journal
 * ~~Luck~~ Hardwork 
 * Dedication
 
-[Computer Setup Link](docs/computer-setup.md)
+[Computer Setup Link](computer-setup.md)
 
 
 ### How to keep a growth mindset 
