@@ -3,4 +3,6 @@
 * `#` - `Creates headings`
 * `![]()` - `Inserts Pictures`
 * `[]()` - `Inserts links to page`
-* `* *` - *Makes text bold*
+* `*text*` - `Makes text italic`
+* `**text**` - `Makes text bold`
+* `>` - `Creates a block qoute`
