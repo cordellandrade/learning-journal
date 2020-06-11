@@ -1,21 +1,5 @@
-# My Learning Journal
+# Table of Contents
 
-## Growth Mindset 
-
-This is my learning journal
-
- Growth mindset is the ability to believe in one's self to achieve great things through;
-* ~~Luck~~ Hardwork 
-* Dedication
-
-[Computer Setup Link](computer-setup.md)
-
-
-### How to keep a growth mindset 
--  Someone else's success should act as motivation
--  Saying I can do this instead of saying I wish I can do this
-- Remembering a growth mindset is needed in coding
-
-
-
+* [Growth Mindset](growth-mindset.md)
+* [Computer Setup](computer-setup.md)
 
