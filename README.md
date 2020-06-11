@@ -8,6 +8,8 @@ This is my learning journal
 * ~~Luck~~ Hardwork 
 * Dedication
 
+[Computer Setup Link](docs/computer-setup.md)
+
 
 ### How to keep a growth mindset 
 -  Someone else's success should act as motivation
