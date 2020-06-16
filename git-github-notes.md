@@ -11,7 +11,7 @@
  
  1. States ```Files in Git resides in three states; committed, modified, and staged.```
       - Committed ```Data is fully secured in a database in the committed stage.```
-            - Modified ```Data has changed but not committed to the database in the modified stage.```
-                  - Staged ```Flagged a file’s changed version to be committed in the next snapshot.```
+        - Modified ```Data has changed but not committed to the database in the modified stage.```
+          - Staged ```Flagged a file’s changed version to be committed in the next snapshot.```
         
 
