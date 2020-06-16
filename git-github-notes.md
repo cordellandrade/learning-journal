@@ -14,7 +14,7 @@
         - Modified ```Data has changed but not committed to the database in the modified stage.```
           - Staged ```Flagged a file’s changed version to be committed in the next snapshot.```
           
-  #### Git Tools
+  ### Git Tools
   1. ```gitconfig``` - Allows users to set variables which they will use in the future.
   
   1. ```gitconfig --list``` - Allows users to check settings.
