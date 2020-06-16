@@ -13,5 +13,16 @@
       - Committed ```Data is fully secured in a database in the committed stage.```
         - Modified ```Data has changed but not committed to the database in the modified stage.```
           - Staged ```Flagged a file’s changed version to be committed in the next snapshot.```
+          
+  ### Git Tools
+  1. ```gitconfig``` - Allows users to set variables which they will use in the future.
+  
+  1. ```gitconfig --list``` - Allows users to check settings.
+  
+  1. ```git command --help``` - Allows users to access help.
+  
+  1. ```git status``` - Checks status or state of the file.
+  
+ 
         
 
