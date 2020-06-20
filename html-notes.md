@@ -1,11 +1,21 @@
 # HTML
 
-* HTML is the skeleton of a webpage; Using markdown such as 
-1. tags
-1. attributes 
+## * HTML is the skeleton of a webpage; Using markdown such as 
+1. Tags
+1. Attributes 
 
-Types of class
-Class and id
+### Types of tags
+1. <a>
+1. <body>
+1. <header>
+1. <img>
+1. <nav>
 
-Types of attributes
+
+### Types of attributes
+1. <class>
+1. <id>
+1. <height>
+1. <href>
+1. <style>
 
