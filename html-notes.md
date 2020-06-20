@@ -23,10 +23,10 @@
 
 * To help determine why people are coming to your website, there are two basic categories of questions you can ask:
  -Why visitors come to your site?
-   -What is the specific goals of the visitors?
+  -What is the specific goals of the visitors?
 
 * Using a sitemap and wireframe you can draft your website before writing any code.
-    -A wireframe is a simple sketch of the key information that needs to go on each page of a site.
+ -A wireframe is a simple sketch of the key information that needs to go on each page of a site.
 It shows the hierarchy of the information and how much space it might require.
 
 
