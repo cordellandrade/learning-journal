@@ -4,5 +4,6 @@
 * [Markdown](markdown.md)
 * [Computer Setup](computer-setup.md)
 * [Git-Github](git-github-notes.md)
+* [Html Notes](html-notes.md)
 
 
