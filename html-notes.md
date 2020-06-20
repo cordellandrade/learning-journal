@@ -1,6 +1,6 @@
 # HTML
 
-##  HTML is the skeleton of a webpage; using markdown such as 
+##  HTML is the **skeleton** of a webpage; using markdown such as 
 1. Tags
 1. Attributes 
 
@@ -22,8 +22,9 @@
 ## Process and Design
 
 * To help determine why people are coming to your website, there are two basic categories of questions you can ask:
- 1.Why visitors come to your site?
- 1.What is the specific goals of the visitors?
+
+ 1. What is the motivation of visitors that come to your site?
+ 1. What is the specific goals of the visitors?
 
 * Using a sitemap and wireframe you can draft your website before writing any code.
 
