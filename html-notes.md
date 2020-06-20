@@ -1,6 +1,6 @@
-# HTML
+# HTML Notes
 
-##  HTML is the **skeleton** of a webpage; using markdown such as 
+##  HTML is the *skeleton* of a webpage; using markdown such as 
 1. Tags
 1. Attributes 
 
