@@ -21,8 +21,8 @@ in an HTML document.
 
 - Background-color changes the color of the background;
 
-- hex decimal; 
+- hex decimal or hex code; These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. 
 
-- rgb;
+- rgb; Expresses how many red, green, blue colors made up the font.
 
-- rgba;
+- rgba;  Allows you to specify a color, just like you would with an RGB value, but adds a fourth value to indicate opacity
