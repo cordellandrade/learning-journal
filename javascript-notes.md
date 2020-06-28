@@ -2,7 +2,7 @@
 
 ## What is Javascript?
 - JavaScript is a powerful, flexible, and fast programming language now being used for increasingly complex web development.
-  -Since JavaScript remains at the core of web development, it’s often the first language learned by self-taught coders eager to learn and build. 
+  - Since JavaScript remains at the core of web development, it’s often the first language learned by self-taught coders eager to learn and build. 
 
 There are 7 fundamental data types in JavaScript:
 1. strings - Characters wrapped in single or double quotes: 'Sample String' 
