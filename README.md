@@ -7,5 +7,5 @@
 * [Html Notes](html-notes.md)
 * [Css Notes](css-notes.md)
 * [Javascript Notes](javascript-notes.md)
-
+* [How Computers Work](how-computers-work.md)
 
