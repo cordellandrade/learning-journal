@@ -6,5 +6,6 @@
 * [Git-Github](git-github-notes.md)
 * [Html Notes](html-notes.md)
 * [Css Notes](css-notes.md)
+* [Javascript Notes](javascript-notes.md)
 
 
