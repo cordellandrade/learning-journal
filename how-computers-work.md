@@ -5,7 +5,7 @@
 - Any device that takes input, stores information, processes the info and gives an output is referred as a computer.
 
 ## Computers use Data & Binary
-Computers uses a binary number system working with only 1's and 0's while using electic wires that carry the info.
+- Computers uses a binary number system working with only 1's and 0's while using electic wires that carry the info.
 
 ## Circuits and Wires 
 
