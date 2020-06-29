@@ -9,4 +9,4 @@
 * [Javascript Notes](javascript-notes.md)
 * [How Computers Work](how-computers-work.md)
 * [Functions](functions.md)
-
+* [For and While Loops](for-and-while-loops.md)
