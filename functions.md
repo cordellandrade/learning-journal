@@ -7,7 +7,7 @@
 
 ## Expressions + Operators
 - There are two type of expressions;
-1. Expressions that just assign a value to a variable eg. ``` var color = 'beige'; ````
+1. Expressions that just assign a value to a variable eg. ``` var color = 'beige'; ```
 1. Expressions that use two or more values to return a single value eg. ``` var area = 3 * 2; ```
 - Expressions rely on things called operators; they allow programmers to create a single value from one or more values. 
 
